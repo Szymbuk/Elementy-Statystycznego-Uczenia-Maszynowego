@@ -3,3 +3,5 @@ matplotlib
 mkl
 ipython
 scipy
+tensorflow[with-cuda]
+tensorflow-probability
